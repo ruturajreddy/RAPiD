@@ -5,7 +5,7 @@
 
 ![My Image](assets/teaser.png)
 
-The official repository of the paper with supplementary: [RAPiD]()
+The official repository of the paper with supplementary: [RAPiD](https://arxiv.org/abs/2602.07339)
 
 
 ## About the project
